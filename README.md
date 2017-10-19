@@ -1,0 +1,1 @@
+python3を動作させる為だけの実行環境コンテナに作成するだけのdocker-compose.yml
